@@ -1,0 +1,15 @@
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\bin\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).exe
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\bin\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).deps.json
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\bin\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).runtimeconfig.json
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\bin\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).dll
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\bin\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).pdb
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).csproj.AssemblyReference.cache
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).AssemblyInfoInputs.cache
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).AssemblyInfo.cs
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).csproj.CoreCompileInputs.cache
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).dll
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\refint\17. Арифметичне переповнення (checked unchecked).dll
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).pdb
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\17. Арифметичне переповнення (checked unchecked).genruntimeconfig.cache
+D:\VS\proj\17. Арифметичне переповнення (checked unchecked)\obj\Debug\net6.0\ref\17. Арифметичне переповнення (checked unchecked).dll

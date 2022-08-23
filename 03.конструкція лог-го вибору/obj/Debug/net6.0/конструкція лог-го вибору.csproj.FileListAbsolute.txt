@@ -1,0 +1,15 @@
+D:\VS\proj\конструкція лог-го вибору\bin\Debug\net6.0\конструкція лог-го вибору.exe
+D:\VS\proj\конструкція лог-го вибору\bin\Debug\net6.0\конструкція лог-го вибору.deps.json
+D:\VS\proj\конструкція лог-го вибору\bin\Debug\net6.0\конструкція лог-го вибору.runtimeconfig.json
+D:\VS\proj\конструкція лог-го вибору\bin\Debug\net6.0\конструкція лог-го вибору.dll
+D:\VS\proj\конструкція лог-го вибору\bin\Debug\net6.0\конструкція лог-го вибору.pdb
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\конструкція лог-го вибору.csproj.AssemblyReference.cache
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\конструкція лог-го вибору.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\конструкція лог-го вибору.AssemblyInfoInputs.cache
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\конструкція лог-го вибору.AssemblyInfo.cs
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\конструкція лог-го вибору.csproj.CoreCompileInputs.cache
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\конструкція лог-го вибору.dll
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\refint\конструкція лог-го вибору.dll
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\конструкція лог-го вибору.pdb
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\конструкція лог-го вибору.genruntimeconfig.cache
+D:\VS\proj\конструкція лог-го вибору\obj\Debug\net6.0\ref\конструкція лог-го вибору.dll

@@ -1,0 +1,15 @@
+D:\VS\proj\09.Функції і Методи\bin\Debug\net6.0\09.Функції і Методи.exe
+D:\VS\proj\09.Функції і Методи\bin\Debug\net6.0\09.Функції і Методи.deps.json
+D:\VS\proj\09.Функції і Методи\bin\Debug\net6.0\09.Функції і Методи.runtimeconfig.json
+D:\VS\proj\09.Функції і Методи\bin\Debug\net6.0\09.Функції і Методи.dll
+D:\VS\proj\09.Функції і Методи\bin\Debug\net6.0\09.Функції і Методи.pdb
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\09.Функції і Методи.csproj.AssemblyReference.cache
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\09.Функції і Методи.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\09.Функції і Методи.AssemblyInfoInputs.cache
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\09.Функції і Методи.AssemblyInfo.cs
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\09.Функції і Методи.csproj.CoreCompileInputs.cache
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\09.Функції і Методи.dll
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\refint\09.Функції і Методи.dll
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\09.Функції і Методи.pdb
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\09.Функції і Методи.genruntimeconfig.cache
+D:\VS\proj\09.Функції і Методи\obj\Debug\net6.0\ref\09.Функції і Методи.dll

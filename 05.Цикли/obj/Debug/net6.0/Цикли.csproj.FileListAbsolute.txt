@@ -1,0 +1,15 @@
+D:\VS\proj\Цикли\bin\Debug\net6.0\Цикли.exe
+D:\VS\proj\Цикли\bin\Debug\net6.0\Цикли.deps.json
+D:\VS\proj\Цикли\bin\Debug\net6.0\Цикли.runtimeconfig.json
+D:\VS\proj\Цикли\bin\Debug\net6.0\Цикли.dll
+D:\VS\proj\Цикли\bin\Debug\net6.0\Цикли.pdb
+D:\VS\proj\Цикли\obj\Debug\net6.0\Цикли.csproj.AssemblyReference.cache
+D:\VS\proj\Цикли\obj\Debug\net6.0\Цикли.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\Цикли\obj\Debug\net6.0\Цикли.AssemblyInfoInputs.cache
+D:\VS\proj\Цикли\obj\Debug\net6.0\Цикли.AssemblyInfo.cs
+D:\VS\proj\Цикли\obj\Debug\net6.0\Цикли.csproj.CoreCompileInputs.cache
+D:\VS\proj\Цикли\obj\Debug\net6.0\Цикли.dll
+D:\VS\proj\Цикли\obj\Debug\net6.0\refint\Цикли.dll
+D:\VS\proj\Цикли\obj\Debug\net6.0\Цикли.pdb
+D:\VS\proj\Цикли\obj\Debug\net6.0\Цикли.genruntimeconfig.cache
+D:\VS\proj\Цикли\obj\Debug\net6.0\ref\Цикли.dll

@@ -1,0 +1,15 @@
+D:\VS\proj\метод вивода на консоль\bin\Debug\net6.0\метод ввода і вивода.exe
+D:\VS\proj\метод вивода на консоль\bin\Debug\net6.0\метод ввода і вивода.deps.json
+D:\VS\proj\метод вивода на консоль\bin\Debug\net6.0\метод ввода і вивода.runtimeconfig.json
+D:\VS\proj\метод вивода на консоль\bin\Debug\net6.0\метод ввода і вивода.dll
+D:\VS\proj\метод вивода на консоль\bin\Debug\net6.0\метод ввода і вивода.pdb
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\метод ввода і вивода.csproj.AssemblyReference.cache
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\метод ввода і вивода.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\метод ввода і вивода.AssemblyInfoInputs.cache
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\метод ввода і вивода.AssemblyInfo.cs
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\метод ввода і вивода.csproj.CoreCompileInputs.cache
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\метод ввода і вивода.dll
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\refint\метод ввода і вивода.dll
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\метод ввода і вивода.pdb
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\метод ввода і вивода.genruntimeconfig.cache
+D:\VS\proj\метод вивода на консоль\obj\Debug\net6.0\ref\метод ввода і вивода.dll

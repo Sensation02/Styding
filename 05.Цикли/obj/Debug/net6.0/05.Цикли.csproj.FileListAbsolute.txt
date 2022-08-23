@@ -1,0 +1,5 @@
+D:\VS\proj\05.Цикли\obj\Debug\net6.0\05.Цикли.csproj.AssemblyReference.cache
+D:\VS\proj\05.Цикли\obj\Debug\net6.0\05.Цикли.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\05.Цикли\obj\Debug\net6.0\05.Цикли.AssemblyInfoInputs.cache
+D:\VS\proj\05.Цикли\obj\Debug\net6.0\05.Цикли.AssemblyInfo.cs
+D:\VS\proj\05.Цикли\obj\Debug\net6.0\05.Цикли.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Індекси і діапазони/1.0.0": {
+        "runtime": {
+          "Індекси і діапазони.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Індекси і діапазони/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

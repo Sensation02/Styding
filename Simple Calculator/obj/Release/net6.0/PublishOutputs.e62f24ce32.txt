@@ -1,0 +1,5 @@
+C:\Users\Bazzil\Desktop\Simple Calculatior.exe
+C:\Users\Bazzil\Desktop\Simple Calculatior.dll
+C:\Users\Bazzil\Desktop\Simple Calculatior.deps.json
+C:\Users\Bazzil\Desktop\Simple Calculatior.runtimeconfig.json
+C:\Users\Bazzil\Desktop\Simple Calculatior.pdb
