@@ -1,0 +1,15 @@
+D:\VS\proj\Індекси і діапазони\bin\Debug\net6.0\Індекси і діапазони.exe
+D:\VS\proj\Індекси і діапазони\bin\Debug\net6.0\Індекси і діапазони.deps.json
+D:\VS\proj\Індекси і діапазони\bin\Debug\net6.0\Індекси і діапазони.runtimeconfig.json
+D:\VS\proj\Індекси і діапазони\bin\Debug\net6.0\Індекси і діапазони.dll
+D:\VS\proj\Індекси і діапазони\bin\Debug\net6.0\Індекси і діапазони.pdb
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\Індекси і діапазони.csproj.AssemblyReference.cache
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\Індекси і діапазони.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\Індекси і діапазони.AssemblyInfoInputs.cache
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\Індекси і діапазони.AssemblyInfo.cs
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\Індекси і діапазони.csproj.CoreCompileInputs.cache
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\Індекси і діапазони.dll
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\refint\Індекси і діапазони.dll
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\Індекси і діапазони.pdb
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\Індекси і діапазони.genruntimeconfig.cache
+D:\VS\proj\Індекси і діапазони\obj\Debug\net6.0\ref\Індекси і діапазони.dll
