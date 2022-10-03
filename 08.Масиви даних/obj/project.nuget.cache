@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "96MzqbdVRqxLI/jptZNkXpB6Bl0QnzJpreqj3McxStuFRZweN/6Zs0PYQnHocZExy/D1iRJY3VfB7KbtdRJ+GA==",
+  "success": true,
+  "projectFilePath": "D:\\VS\\proj\\08.Масиви даних\\08.Масиви даних, список.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bazzil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bazzil\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bazzil\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Bazzil\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

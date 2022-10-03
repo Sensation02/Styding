@@ -1,0 +1,5 @@
+D:\VS\proj\08.Масиви даних\obj\Debug\net6.0\08.Масиви даних, список.csproj.AssemblyReference.cache
+D:\VS\proj\08.Масиви даних\obj\Debug\net6.0\08.Масиви даних, список.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\08.Масиви даних\obj\Debug\net6.0\08.Масиви даних, список.AssemblyInfoInputs.cache
+D:\VS\proj\08.Масиви даних\obj\Debug\net6.0\08.Масиви даних, список.AssemblyInfo.cs
+D:\VS\proj\08.Масиви даних\obj\Debug\net6.0\08.Масиви даних, список.csproj.CoreCompileInputs.cache
