@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "21. ООП": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
