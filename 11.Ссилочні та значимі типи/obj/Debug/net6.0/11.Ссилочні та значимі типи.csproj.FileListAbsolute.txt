@@ -1,5 +1,0 @@
-D:\VS\proj\11.Ссилочні та значимі типи\obj\Debug\net6.0\11.Ссилочні та значимі типи.csproj.AssemblyReference.cache
-D:\VS\proj\11.Ссилочні та значимі типи\obj\Debug\net6.0\11.Ссилочні та значимі типи.GeneratedMSBuildEditorConfig.editorconfig
-D:\VS\proj\11.Ссилочні та значимі типи\obj\Debug\net6.0\11.Ссилочні та значимі типи.AssemblyInfoInputs.cache
-D:\VS\proj\11.Ссилочні та значимі типи\obj\Debug\net6.0\11.Ссилочні та значимі типи.AssemblyInfo.cs
-D:\VS\proj\11.Ссилочні та значимі типи\obj\Debug\net6.0\11.Ссилочні та значимі типи.csproj.CoreCompileInputs.cache
