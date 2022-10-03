@@ -1,0 +1,5 @@
+D:\VS\proj\14. OUT\obj\Debug\net6.0\14. Ключові слова.csproj.AssemblyReference.cache
+D:\VS\proj\14. OUT\obj\Debug\net6.0\14. Ключові слова.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\14. OUT\obj\Debug\net6.0\14. Ключові слова.AssemblyInfoInputs.cache
+D:\VS\proj\14. OUT\obj\Debug\net6.0\14. Ключові слова.AssemblyInfo.cs
+D:\VS\proj\14. OUT\obj\Debug\net6.0\14. Ключові слова.csproj.CoreCompileInputs.cache
