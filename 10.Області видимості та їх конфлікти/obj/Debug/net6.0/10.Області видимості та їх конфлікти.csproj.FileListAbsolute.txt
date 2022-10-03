@@ -1,0 +1,5 @@
+D:\VS\proj\10.Області видимості та їх конфлікти\obj\Debug\net6.0\10.Області видимості та їх конфлікти.csproj.AssemblyReference.cache
+D:\VS\proj\10.Області видимості та їх конфлікти\obj\Debug\net6.0\10.Області видимості та їх конфлікти.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\10.Області видимості та їх конфлікти\obj\Debug\net6.0\10.Області видимості та їх конфлікти.AssemblyInfoInputs.cache
+D:\VS\proj\10.Області видимості та їх конфлікти\obj\Debug\net6.0\10.Області видимості та їх конфлікти.AssemblyInfo.cs
+D:\VS\proj\10.Області видимості та їх конфлікти\obj\Debug\net6.0\10.Області видимості та їх конфлікти.csproj.CoreCompileInputs.cache
