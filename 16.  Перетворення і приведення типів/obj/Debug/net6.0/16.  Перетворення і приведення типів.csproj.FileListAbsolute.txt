@@ -1,0 +1,5 @@
+D:\VS\proj\16.  Перетворення і приведення типів\obj\Debug\net6.0\16.  Перетворення і приведення типів.csproj.AssemblyReference.cache
+D:\VS\proj\16.  Перетворення і приведення типів\obj\Debug\net6.0\16.  Перетворення і приведення типів.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\16.  Перетворення і приведення типів\obj\Debug\net6.0\16.  Перетворення і приведення типів.AssemblyInfoInputs.cache
+D:\VS\proj\16.  Перетворення і приведення типів\obj\Debug\net6.0\16.  Перетворення і приведення типів.AssemblyInfo.cs
+D:\VS\proj\16.  Перетворення і приведення типів\obj\Debug\net6.0\16.  Перетворення і приведення типів.csproj.CoreCompileInputs.cache
