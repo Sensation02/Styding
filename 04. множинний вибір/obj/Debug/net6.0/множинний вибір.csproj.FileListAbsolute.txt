@@ -1,0 +1,15 @@
+D:\VS\proj\множинний вибір\bin\Debug\net6.0\множинний вибір.exe
+D:\VS\proj\множинний вибір\bin\Debug\net6.0\множинний вибір.deps.json
+D:\VS\proj\множинний вибір\bin\Debug\net6.0\множинний вибір.runtimeconfig.json
+D:\VS\proj\множинний вибір\bin\Debug\net6.0\множинний вибір.dll
+D:\VS\proj\множинний вибір\bin\Debug\net6.0\множинний вибір.pdb
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\множинний вибір.csproj.AssemblyReference.cache
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\множинний вибір.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\множинний вибір.AssemblyInfoInputs.cache
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\множинний вибір.AssemblyInfo.cs
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\множинний вибір.csproj.CoreCompileInputs.cache
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\множинний вибір.dll
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\refint\множинний вибір.dll
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\множинний вибір.pdb
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\множинний вибір.genruntimeconfig.cache
+D:\VS\proj\множинний вибір\obj\Debug\net6.0\ref\множинний вибір.dll
