@@ -1,0 +1,15 @@
+D:\VS\proj\Навчання ООП\bin\Debug\net6.0\Навчання ООП.exe
+D:\VS\proj\Навчання ООП\bin\Debug\net6.0\Навчання ООП.deps.json
+D:\VS\proj\Навчання ООП\bin\Debug\net6.0\Навчання ООП.runtimeconfig.json
+D:\VS\proj\Навчання ООП\bin\Debug\net6.0\Навчання ООП.dll
+D:\VS\proj\Навчання ООП\bin\Debug\net6.0\Навчання ООП.pdb
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\Навчання ООП.csproj.AssemblyReference.cache
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\Навчання ООП.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\Навчання ООП.AssemblyInfoInputs.cache
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\Навчання ООП.AssemblyInfo.cs
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\Навчання ООП.csproj.CoreCompileInputs.cache
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\Навчання ООП.dll
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\refint\Навчання ООП.dll
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\Навчання ООП.pdb
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\Навчання ООП.genruntimeconfig.cache
+D:\VS\proj\Навчання ООП\obj\Debug\net6.0\ref\Навчання ООП.dll
