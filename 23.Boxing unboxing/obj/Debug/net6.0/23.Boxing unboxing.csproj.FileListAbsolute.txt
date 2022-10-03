@@ -1,0 +1,5 @@
+D:\VS\proj\23.Boxing unboxing\obj\Debug\net6.0\23.Boxing unboxing.csproj.AssemblyReference.cache
+D:\VS\proj\23.Boxing unboxing\obj\Debug\net6.0\23.Boxing unboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\23.Boxing unboxing\obj\Debug\net6.0\23.Boxing unboxing.AssemblyInfoInputs.cache
+D:\VS\proj\23.Boxing unboxing\obj\Debug\net6.0\23.Boxing unboxing.AssemblyInfo.cs
+D:\VS\proj\23.Boxing unboxing\obj\Debug\net6.0\23.Boxing unboxing.csproj.CoreCompileInputs.cache
