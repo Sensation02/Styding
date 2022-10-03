@@ -1,0 +1,82 @@
+D:\VS\proj\SQL Server Learning\bin\Debug\SQL Server Learning.exe.config
+D:\VS\proj\SQL Server Learning\bin\Debug\SQL Server Learning.exe
+D:\VS\proj\SQL Server Learning\bin\Debug\SQL Server Learning.pdb
+D:\VS\proj\SQL Server Learning\bin\Debug\Azure.Core.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Azure.Identity.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\EntityFramework.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.Identity.Client.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Buffers.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Memory.Data.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Memory.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Numerics.Vectors.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Security.AccessControl.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Security.Permissions.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Security.Principal.Windows.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Text.Encodings.Web.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Text.Json.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\System.ValueTuple.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\Azure.Core.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Azure.Identity.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\EntityFramework.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.Identity.Client.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Buffers.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Memory.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Memory.Data.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Numerics.Vectors.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Security.AccessControl.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Security.Permissions.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Security.Principal.Windows.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Text.Encodings.Web.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Text.Json.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\System.ValueTuple.xml
+D:\VS\proj\SQL Server Learning\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\VS\proj\SQL Server Learning\obj\Debug\SQL Server Learning.csproj.AssemblyReference.cache
+D:\VS\proj\SQL Server Learning\obj\Debug\SQL Server Learning.csproj.SuggestedBindingRedirects.cache
+D:\VS\proj\SQL Server Learning\obj\Debug\SQL Server Learning.csproj.CoreCompileInputs.cache
+D:\VS\proj\SQL Server Learning\obj\Debug\SQL Server Learning.csproj.CopyComplete
+D:\VS\proj\SQL Server Learning\obj\Debug\SQL Server Learning.exe
+D:\VS\proj\SQL Server Learning\obj\Debug\SQL Server Learning.pdb
+D:\VS\proj\SQL Server Learning\obj\Debug\SQL_Server_Learning.Migrations.AddGroupGenre.resources
+D:\VS\proj\SQL Server Learning\obj\Debug\SQL Server Learning.csproj.GenerateResource.cache
