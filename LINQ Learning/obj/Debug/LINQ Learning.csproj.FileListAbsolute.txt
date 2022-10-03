@@ -1,0 +1,8 @@
+D:\VS\proj\LINQ Learning\bin\Debug\LINQ Learning.exe.config
+D:\VS\proj\LINQ Learning\bin\Debug\LINQ Learning.exe
+D:\VS\proj\LINQ Learning\bin\Debug\LINQ Learning.pdb
+D:\VS\proj\LINQ Learning\obj\Debug\LINQ Learning.csproj.AssemblyReference.cache
+D:\VS\proj\LINQ Learning\obj\Debug\LINQ Learning.csproj.SuggestedBindingRedirects.cache
+D:\VS\proj\LINQ Learning\obj\Debug\LINQ Learning.csproj.CoreCompileInputs.cache
+D:\VS\proj\LINQ Learning\obj\Debug\LINQ Learning.exe
+D:\VS\proj\LINQ Learning\obj\Debug\LINQ Learning.pdb
