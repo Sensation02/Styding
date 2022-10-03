@@ -1,0 +1,15 @@
+D:\VS\proj\13. Ref і передача аргументів по ссилці\bin\Debug\net6.0\13. Ref і передача аргументів по ссилці.exe
+D:\VS\proj\13. Ref і передача аргументів по ссилці\bin\Debug\net6.0\13. Ref і передача аргументів по ссилці.deps.json
+D:\VS\proj\13. Ref і передача аргументів по ссилці\bin\Debug\net6.0\13. Ref і передача аргументів по ссилці.runtimeconfig.json
+D:\VS\proj\13. Ref і передача аргументів по ссилці\bin\Debug\net6.0\13. Ref і передача аргументів по ссилці.dll
+D:\VS\proj\13. Ref і передача аргументів по ссилці\bin\Debug\net6.0\13. Ref і передача аргументів по ссилці.pdb
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\13. Ref і передача аргументів по ссилці.csproj.AssemblyReference.cache
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\13. Ref і передача аргументів по ссилці.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\13. Ref і передача аргументів по ссилці.AssemblyInfoInputs.cache
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\13. Ref і передача аргументів по ссилці.AssemblyInfo.cs
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\13. Ref і передача аргументів по ссилці.csproj.CoreCompileInputs.cache
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\13. Ref і передача аргументів по ссилці.dll
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\refint\13. Ref і передача аргументів по ссилці.dll
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\13. Ref і передача аргументів по ссилці.pdb
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\13. Ref і передача аргументів по ссилці.genruntimeconfig.cache
+D:\VS\proj\13. Ref і передача аргументів по ссилці\obj\Debug\net6.0\ref\13. Ref і передача аргументів по ссилці.dll
