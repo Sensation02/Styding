@@ -1,0 +1,15 @@
+D:\VS\proj\CaloriesCalculator\bin\Debug\net6.0\CaloriesCalculator.exe
+D:\VS\proj\CaloriesCalculator\bin\Debug\net6.0\CaloriesCalculator.deps.json
+D:\VS\proj\CaloriesCalculator\bin\Debug\net6.0\CaloriesCalculator.runtimeconfig.json
+D:\VS\proj\CaloriesCalculator\bin\Debug\net6.0\CaloriesCalculator.dll
+D:\VS\proj\CaloriesCalculator\bin\Debug\net6.0\CaloriesCalculator.pdb
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\CaloriesCalculator.csproj.AssemblyReference.cache
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\CaloriesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\CaloriesCalculator.AssemblyInfoInputs.cache
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\CaloriesCalculator.AssemblyInfo.cs
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\CaloriesCalculator.csproj.CoreCompileInputs.cache
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\CaloriesCalculator.dll
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\refint\CaloriesCalculator.dll
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\CaloriesCalculator.pdb
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\CaloriesCalculator.genruntimeconfig.cache
+D:\VS\proj\CaloriesCalculator\obj\Debug\net6.0\ref\CaloriesCalculator.dll
