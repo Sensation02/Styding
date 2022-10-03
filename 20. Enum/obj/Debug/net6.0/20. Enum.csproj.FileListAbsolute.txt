@@ -1,0 +1,15 @@
+D:\VS\proj\20. Enum\bin\Debug\net6.0\20. Enum.exe
+D:\VS\proj\20. Enum\bin\Debug\net6.0\20. Enum.deps.json
+D:\VS\proj\20. Enum\bin\Debug\net6.0\20. Enum.runtimeconfig.json
+D:\VS\proj\20. Enum\bin\Debug\net6.0\20. Enum.dll
+D:\VS\proj\20. Enum\bin\Debug\net6.0\20. Enum.pdb
+D:\VS\proj\20. Enum\obj\Debug\net6.0\20. Enum.csproj.AssemblyReference.cache
+D:\VS\proj\20. Enum\obj\Debug\net6.0\20. Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\20. Enum\obj\Debug\net6.0\20. Enum.AssemblyInfoInputs.cache
+D:\VS\proj\20. Enum\obj\Debug\net6.0\20. Enum.AssemblyInfo.cs
+D:\VS\proj\20. Enum\obj\Debug\net6.0\20. Enum.csproj.CoreCompileInputs.cache
+D:\VS\proj\20. Enum\obj\Debug\net6.0\20. Enum.dll
+D:\VS\proj\20. Enum\obj\Debug\net6.0\refint\20. Enum.dll
+D:\VS\proj\20. Enum\obj\Debug\net6.0\20. Enum.pdb
+D:\VS\proj\20. Enum\obj\Debug\net6.0\20. Enum.genruntimeconfig.cache
+D:\VS\proj\20. Enum\obj\Debug\net6.0\ref\20. Enum.dll
