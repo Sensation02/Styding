@@ -1,5 +1,0 @@
-D:\VS\proj\21. ООП №1 - Класс\obj\Debug\net6.0\21. ООП.csproj.AssemblyReference.cache
-D:\VS\proj\21. ООП №1 - Класс\obj\Debug\net6.0\21. ООП.GeneratedMSBuildEditorConfig.editorconfig
-D:\VS\proj\21. ООП №1 - Класс\obj\Debug\net6.0\21. ООП.AssemblyInfoInputs.cache
-D:\VS\proj\21. ООП №1 - Класс\obj\Debug\net6.0\21. ООП.AssemblyInfo.cs
-D:\VS\proj\21. ООП №1 - Класс\obj\Debug\net6.0\21. ООП.csproj.CoreCompileInputs.cache
