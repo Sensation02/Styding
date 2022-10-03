@@ -1,0 +1,5 @@
+D:\VS\proj\18. Nullable\obj\Debug\net6.0\18. Nullable.csproj.AssemblyReference.cache
+D:\VS\proj\18. Nullable\obj\Debug\net6.0\18. Nullable.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\18. Nullable\obj\Debug\net6.0\18. Nullable.AssemblyInfoInputs.cache
+D:\VS\proj\18. Nullable\obj\Debug\net6.0\18. Nullable.AssemblyInfo.cs
+D:\VS\proj\18. Nullable\obj\Debug\net6.0\18. Nullable.csproj.CoreCompileInputs.cache
