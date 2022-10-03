@@ -1,0 +1,15 @@
+D:\VS\proj\01.типи даних\bin\Debug\net6.0\01.типи даних.exe
+D:\VS\proj\01.типи даних\bin\Debug\net6.0\01.типи даних.deps.json
+D:\VS\proj\01.типи даних\bin\Debug\net6.0\01.типи даних.runtimeconfig.json
+D:\VS\proj\01.типи даних\bin\Debug\net6.0\01.типи даних.dll
+D:\VS\proj\01.типи даних\bin\Debug\net6.0\01.типи даних.pdb
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\01.типи даних.csproj.AssemblyReference.cache
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\01.типи даних.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\01.типи даних.AssemblyInfoInputs.cache
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\01.типи даних.AssemblyInfo.cs
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\01.типи даних.csproj.CoreCompileInputs.cache
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\01.типи даних.dll
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\refint\01.типи даних.dll
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\01.типи даних.pdb
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\01.типи даних.genruntimeconfig.cache
+D:\VS\proj\01.типи даних\obj\Debug\net6.0\ref\01.типи даних.dll

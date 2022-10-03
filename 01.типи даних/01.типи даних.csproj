@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>типи_даних</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\02.дії з числами\02.ариф-ні та логічні оператори.csproj" />
+    <ProjectReference Include="..\03.конструкція лог-го вибору\03.if else (конструкція лог-го вибору).csproj" />
+    <ProjectReference Include="..\04. множинний вибір\04.switch case (множинний вибір).csproj" />
+    <ProjectReference Include="..\05.Цикли\05.Цикли.csproj" />
+    <ProjectReference Include="..\06.Вкладені цикли\06.Вкладені цикли.csproj" />
+    <ProjectReference Include="..\07.Індекси і діапазони\07.Індекси і діапазони.csproj" />
+    <ProjectReference Include="..\08.Масиви даних\08.Масиви даних, список.csproj" />
+    <ProjectReference Include="..\09.Функції і Методи\09.Функції і Методи.csproj" />
+    <ProjectReference Include="..\10.Області видимості та їх конфлікти\10.Області видимості та їх конфлікти.csproj" />
+    <ProjectReference Include="..\11.Ссилочні та значимі типи\11.Ссилочні та значимі типи.csproj" />
+    <ProjectReference Include="..\12.Null\12.Null і операд з'єднання.csproj" />
+    <ProjectReference Include="..\13. Ref і передача аргументів по ссилці\13. Ref і передача аргументів по ссилці.csproj" />
+    <ProjectReference Include="..\14. OUT\14. Ключові слова.csproj" />
+    <ProjectReference Include="..\15. Рекурсія, переповнення стека, стек викликів\15. Рекурсія, переповнення стека, стек викликів.csproj" />
+    <ProjectReference Include="..\16.  Перетворення і приведення типів\16.  Перетворення і приведення типів.csproj" />
+    <ProjectReference Include="..\17. Арифметичне переповнення (checked unchecked)\17. Арифметичне переповнення (checked unchecked).csproj" />
+    <ProjectReference Include="..\18. Nullable\18. Nullable.csproj" />
+    <ProjectReference Include="..\19. Var\19. Var.csproj" />
+    <ProjectReference Include="..\20. Enum\20. Enum.csproj" />
+    <ProjectReference Include="..\21. ООП №1 - Класс\21. ООП.csproj" />
+    <ProjectReference Include="..\22.Struct vs class (структури)\22.Struct vs class (структури).csproj" />
+    <ProjectReference Include="..\23.Boxing unboxing\23.Boxing unboxing.csproj" />
+    <ProjectReference Include="..\24.Delegates\24.Delegates Events.csproj" />
+    <ProjectReference Include="..\25.Generics\25.Generics.csproj" />
+    <ProjectReference Include="..\Simple Calculator\Simple Calculatior.csproj" />
+    <ProjectReference Include="..\ДЗ №3 (конвертер валют)\конвертер валют.csproj" />
+    <ProjectReference Include="..\метод вивода на консоль\метод ввода і вивода.csproj" />
+    <ProjectReference Include="..\трикутник\трикутник.csproj" />
+    <ProjectReference Include="..\Уроки2\Уроки.csproj" />
+    <ProjectReference Include="..\Уроки\Лічильник чисел.csproj" />
+    <ProjectReference Include="..\Учоба\складна арифм. операція.csproj" />
+  </ItemGroup>
+
+</Project>
