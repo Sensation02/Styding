@@ -1,0 +1,15 @@
+D:\VS\proj\Socket, TCP, UDP\bin\Debug\net6.0\Socket, TCP, UDP (Server TCP).exe
+D:\VS\proj\Socket, TCP, UDP\bin\Debug\net6.0\Socket, TCP, UDP (Server TCP).deps.json
+D:\VS\proj\Socket, TCP, UDP\bin\Debug\net6.0\Socket, TCP, UDP (Server TCP).runtimeconfig.json
+D:\VS\proj\Socket, TCP, UDP\bin\Debug\net6.0\Socket, TCP, UDP (Server TCP).dll
+D:\VS\proj\Socket, TCP, UDP\bin\Debug\net6.0\Socket, TCP, UDP (Server TCP).pdb
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\Socket, TCP, UDP (Server TCP).csproj.AssemblyReference.cache
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\Socket, TCP, UDP (Server TCP).GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\Socket, TCP, UDP (Server TCP).AssemblyInfoInputs.cache
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\Socket, TCP, UDP (Server TCP).AssemblyInfo.cs
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\Socket, TCP, UDP (Server TCP).csproj.CoreCompileInputs.cache
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\Socket, TCP, UDP (Server TCP).dll
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\refint\Socket, TCP, UDP (Server TCP).dll
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\Socket, TCP, UDP (Server TCP).pdb
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\Socket, TCP, UDP (Server TCP).genruntimeconfig.cache
+D:\VS\proj\Socket, TCP, UDP\obj\Debug\net6.0\ref\Socket, TCP, UDP (Server TCP).dll
