@@ -1,0 +1,15 @@
+D:\VS\proj\Client TCP\bin\Debug\net6.0\Client TCP.exe
+D:\VS\proj\Client TCP\bin\Debug\net6.0\Client TCP.deps.json
+D:\VS\proj\Client TCP\bin\Debug\net6.0\Client TCP.runtimeconfig.json
+D:\VS\proj\Client TCP\bin\Debug\net6.0\Client TCP.dll
+D:\VS\proj\Client TCP\bin\Debug\net6.0\Client TCP.pdb
+D:\VS\proj\Client TCP\obj\Debug\net6.0\Client TCP.csproj.AssemblyReference.cache
+D:\VS\proj\Client TCP\obj\Debug\net6.0\Client TCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\Client TCP\obj\Debug\net6.0\Client TCP.AssemblyInfoInputs.cache
+D:\VS\proj\Client TCP\obj\Debug\net6.0\Client TCP.AssemblyInfo.cs
+D:\VS\proj\Client TCP\obj\Debug\net6.0\Client TCP.csproj.CoreCompileInputs.cache
+D:\VS\proj\Client TCP\obj\Debug\net6.0\Client TCP.dll
+D:\VS\proj\Client TCP\obj\Debug\net6.0\refint\Client TCP.dll
+D:\VS\proj\Client TCP\obj\Debug\net6.0\Client TCP.pdb
+D:\VS\proj\Client TCP\obj\Debug\net6.0\Client TCP.genruntimeconfig.cache
+D:\VS\proj\Client TCP\obj\Debug\net6.0\ref\Client TCP.dll
