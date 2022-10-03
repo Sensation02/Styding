@@ -1,0 +1,15 @@
+D:\VS\proj\24.Delegates\bin\Debug\net6.0\24.Delegates.exe
+D:\VS\proj\24.Delegates\bin\Debug\net6.0\24.Delegates.deps.json
+D:\VS\proj\24.Delegates\bin\Debug\net6.0\24.Delegates.runtimeconfig.json
+D:\VS\proj\24.Delegates\bin\Debug\net6.0\24.Delegates.dll
+D:\VS\proj\24.Delegates\bin\Debug\net6.0\24.Delegates.pdb
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\24.Delegates.csproj.AssemblyReference.cache
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\24.Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\24.Delegates.AssemblyInfoInputs.cache
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\24.Delegates.AssemblyInfo.cs
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\24.Delegates.csproj.CoreCompileInputs.cache
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\24.Delegates.dll
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\refint\24.Delegates.dll
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\24.Delegates.pdb
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\24.Delegates.genruntimeconfig.cache
+D:\VS\proj\24.Delegates\obj\Debug\net6.0\ref\24.Delegates.dll
