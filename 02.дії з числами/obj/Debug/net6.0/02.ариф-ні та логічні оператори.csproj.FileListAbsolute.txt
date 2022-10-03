@@ -1,0 +1,15 @@
+D:\VS\proj\02.дії з числами\bin\Debug\net6.0\02.ариф-ні та логічні оператори.exe
+D:\VS\proj\02.дії з числами\bin\Debug\net6.0\02.ариф-ні та логічні оператори.deps.json
+D:\VS\proj\02.дії з числами\bin\Debug\net6.0\02.ариф-ні та логічні оператори.runtimeconfig.json
+D:\VS\proj\02.дії з числами\bin\Debug\net6.0\02.ариф-ні та логічні оператори.dll
+D:\VS\proj\02.дії з числами\bin\Debug\net6.0\02.ариф-ні та логічні оператори.pdb
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\02.ариф-ні та логічні оператори.csproj.AssemblyReference.cache
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\02.ариф-ні та логічні оператори.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\02.ариф-ні та логічні оператори.AssemblyInfoInputs.cache
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\02.ариф-ні та логічні оператори.AssemblyInfo.cs
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\02.ариф-ні та логічні оператори.csproj.CoreCompileInputs.cache
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\02.ариф-ні та логічні оператори.dll
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\refint\02.ариф-ні та логічні оператори.dll
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\02.ариф-ні та логічні оператори.pdb
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\02.ариф-ні та логічні оператори.genruntimeconfig.cache
+D:\VS\proj\02.дії з числами\obj\Debug\net6.0\ref\02.ариф-ні та логічні оператори.dll
