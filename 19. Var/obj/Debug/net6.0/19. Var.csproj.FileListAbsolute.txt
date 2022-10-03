@@ -1,0 +1,15 @@
+D:\VS\proj\19. Var\bin\Debug\net6.0\19. Var.exe
+D:\VS\proj\19. Var\bin\Debug\net6.0\19. Var.deps.json
+D:\VS\proj\19. Var\bin\Debug\net6.0\19. Var.runtimeconfig.json
+D:\VS\proj\19. Var\bin\Debug\net6.0\19. Var.dll
+D:\VS\proj\19. Var\bin\Debug\net6.0\19. Var.pdb
+D:\VS\proj\19. Var\obj\Debug\net6.0\19. Var.csproj.AssemblyReference.cache
+D:\VS\proj\19. Var\obj\Debug\net6.0\19. Var.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\proj\19. Var\obj\Debug\net6.0\19. Var.AssemblyInfoInputs.cache
+D:\VS\proj\19. Var\obj\Debug\net6.0\19. Var.AssemblyInfo.cs
+D:\VS\proj\19. Var\obj\Debug\net6.0\19. Var.csproj.CoreCompileInputs.cache
+D:\VS\proj\19. Var\obj\Debug\net6.0\19. Var.dll
+D:\VS\proj\19. Var\obj\Debug\net6.0\refint\19. Var.dll
+D:\VS\proj\19. Var\obj\Debug\net6.0\19. Var.pdb
+D:\VS\proj\19. Var\obj\Debug\net6.0\19. Var.genruntimeconfig.cache
+D:\VS\proj\19. Var\obj\Debug\net6.0\ref\19. Var.dll
