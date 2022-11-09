@@ -1,0 +1,8 @@
+D:\VS\proj\Indexer yield (індекксатори ітератори)\bin\Debug\Indexer yield (індекксатори ітератори).exe.config
+D:\VS\proj\Indexer yield (індекксатори ітератори)\bin\Debug\Indexer yield (індекксатори ітератори).exe
+D:\VS\proj\Indexer yield (індекксатори ітератори)\bin\Debug\Indexer yield (індекксатори ітератори).pdb
+D:\VS\proj\Indexer yield (індекксатори ітератори)\obj\Debug\Indexer yield (індекксатори ітератори).csproj.AssemblyReference.cache
+D:\VS\proj\Indexer yield (індекксатори ітератори)\obj\Debug\Indexer yield (індекксатори ітератори).csproj.SuggestedBindingRedirects.cache
+D:\VS\proj\Indexer yield (індекксатори ітератори)\obj\Debug\Indexer yield (індекксатори ітератори).csproj.CoreCompileInputs.cache
+D:\VS\proj\Indexer yield (індекксатори ітератори)\obj\Debug\Indexer yield (індекксатори ітератори).exe
+D:\VS\proj\Indexer yield (індекксатори ітератори)\obj\Debug\Indexer yield (індекксатори ітератори).pdb
