@@ -1,0 +1,8 @@
+D:\VS\proj\Serialization\bin\Debug\Serialization.exe.config
+D:\VS\proj\Serialization\bin\Debug\Serialization.exe
+D:\VS\proj\Serialization\bin\Debug\Serialization.pdb
+D:\VS\proj\Serialization\obj\Debug\Serialization.csproj.AssemblyReference.cache
+D:\VS\proj\Serialization\obj\Debug\Serialization.csproj.SuggestedBindingRedirects.cache
+D:\VS\proj\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+D:\VS\proj\Serialization\obj\Debug\Serialization.exe
+D:\VS\proj\Serialization\obj\Debug\Serialization.pdb
