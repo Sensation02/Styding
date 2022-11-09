@@ -1,0 +1,8 @@
+D:\VS\proj\Unsafe code\bin\Debug\Unsafe code.exe.config
+D:\VS\proj\Unsafe code\bin\Debug\Unsafe code.exe
+D:\VS\proj\Unsafe code\bin\Debug\Unsafe code.pdb
+D:\VS\proj\Unsafe code\obj\Debug\Unsafe code.csproj.AssemblyReference.cache
+D:\VS\proj\Unsafe code\obj\Debug\Unsafe code.csproj.SuggestedBindingRedirects.cache
+D:\VS\proj\Unsafe code\obj\Debug\Unsafe code.csproj.CoreCompileInputs.cache
+D:\VS\proj\Unsafe code\obj\Debug\Unsafe code.exe
+D:\VS\proj\Unsafe code\obj\Debug\Unsafe code.pdb
