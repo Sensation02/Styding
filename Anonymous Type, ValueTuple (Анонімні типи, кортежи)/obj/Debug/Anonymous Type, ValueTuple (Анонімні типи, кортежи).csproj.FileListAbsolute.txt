@@ -1,0 +1,11 @@
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\bin\Debug\Anonymous Type, ValueTuple (Анонімні типи, кортежи).exe.config
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\bin\Debug\Anonymous Type, ValueTuple (Анонімні типи, кортежи).exe
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\bin\Debug\Anonymous Type, ValueTuple (Анонімні типи, кортежи).pdb
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\bin\Debug\System.ValueTuple.dll
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\bin\Debug\System.ValueTuple.xml
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\obj\Debug\Anonymous Type, ValueTuple (Анонімні типи, кортежи).csproj.AssemblyReference.cache
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\obj\Debug\Anonymous Type, ValueTuple (Анонімні типи, кортежи).csproj.SuggestedBindingRedirects.cache
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\obj\Debug\Anonymous Type, ValueTuple (Анонімні типи, кортежи).csproj.CoreCompileInputs.cache
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\obj\Debug\Anonymous Type, ValueTuple (Анонімні типи, кортежи).csproj.CopyComplete
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\obj\Debug\Anonymous Type, ValueTuple (Анонімні типи, кортежи).exe
+D:\VS\proj\Anonymous Type, ValueTuple (Анонімні типи, кортежи)\obj\Debug\Anonymous Type, ValueTuple (Анонімні типи, кортежи).pdb
