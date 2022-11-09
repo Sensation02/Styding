@@ -1,0 +1,8 @@
+D:\VS\proj\Garbage Collector\bin\Debug\Garbage Collector.exe.config
+D:\VS\proj\Garbage Collector\bin\Debug\Garbage Collector.exe
+D:\VS\proj\Garbage Collector\bin\Debug\Garbage Collector.pdb
+D:\VS\proj\Garbage Collector\obj\Debug\Garbage Collector.csproj.AssemblyReference.cache
+D:\VS\proj\Garbage Collector\obj\Debug\Garbage Collector.csproj.SuggestedBindingRedirects.cache
+D:\VS\proj\Garbage Collector\obj\Debug\Garbage Collector.csproj.CoreCompileInputs.cache
+D:\VS\proj\Garbage Collector\obj\Debug\Garbage Collector.exe
+D:\VS\proj\Garbage Collector\obj\Debug\Garbage Collector.pdb
